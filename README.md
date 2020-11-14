@@ -1,2 +1,2 @@
 # kbudget
-Tutorial project for learning Kotlin Multiplatform
+Tutorial project for learning Kotlin Multiplatform test
